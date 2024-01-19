@@ -1,0 +1,10 @@
+node_modules
+dist
+# misc
+.sass-cache
+#IDE folder
+.idea
+
+# next.js
+/.next/
+/out/
